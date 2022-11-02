@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(restaurant-mural-wallpaper_52683-49099.webp);
+    width: 900px;
+    height: 70vh;
+    margin: auto;
+}
+
+#h1{
+    background: linear-gradient(to right,red,yellow);
+    font-family: sans-serif;
+}
+
+.order-id-input {
+	width: 70%;
+	margin: 30px auto;
+}
+
+.order-status-wrapper {
+	width: 70%;
+   
+	margin: auto
+}
+
+.order-status-block {
+	width: 100%;
+	margin: 10px 0;
+	font-size: 1.2em;
+}
+
+#order-id-display {
+	display: none;
+} 
+
+img{
+    width: 90px;
+    height: 90px;
+}
